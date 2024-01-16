@@ -1,1 +1,2 @@
 line1 in branch1
+line 2 in branch dev
